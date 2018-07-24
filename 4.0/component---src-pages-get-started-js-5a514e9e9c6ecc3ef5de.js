@@ -1,0 +1,2 @@
+webpackJsonp([0xcba4769a024c],{351:function(e,t,a){"use strict";function u(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var n=a(3),r=u(n);a(99);var c=function(e){return r.default.createElement("div",{className:"container-fluid h-100"},r.default.createElement("div",{className:"row h-100"},"Get started"))};t.default=c,e.exports=t.default}});
+//# sourceMappingURL=component---src-pages-get-started-js-5a514e9e9c6ecc3ef5de.js.map
